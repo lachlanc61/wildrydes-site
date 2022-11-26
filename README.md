@@ -2,7 +2,7 @@
 
 This repository is a serverless webapp demo deployed on AWS, following [these](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-3/) instructions. It is a fictional rideshare platform that allows users to register and request unicorn rides from any location. 
 
-It is deployed on AWS amplify, handles user accounts via cognito, and uses a serverless lambda backend to query a dynamo database and assign unicorns to each "job".
+It is deployed on AWS amplify, handles user accounts via cognito, and uses a serverless lambda backend to query a dynamo database, assigning unicorns to each "job".
 #
 # Usage
 
