@@ -14,7 +14,7 @@ The webapp is live and can be accessed via:
 #
 # Architecture
 
-This repo contains the contents of the webpage, provided by AWS [here](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/). 
+This repo contains the content of the webpage, provided by AWS [here](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/). 
 
 <p align="left">
   <img src="./docs/IMG/architecture_aws.png" alt="Spectrum" width="1024">
