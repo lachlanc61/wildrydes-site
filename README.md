@@ -26,7 +26,7 @@ The architecture is as follows:
 ( schematic via AWS )
 </p>
 
-- The static componenets of the webapp are deployed via Amplify. 
+- The static components of the webapp are deployed via Amplify. 
 
 - Cognito is used to manage the user pool and authentication. Upon registering, the user provides an email address (optional), and is sent a verification code. 
 
